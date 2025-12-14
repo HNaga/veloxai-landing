@@ -1,0 +1,50 @@
+{
+  "services": {
+    "header": "Our Services",
+    "subheader": "Comprehensive AI and automation solutions tailored to your business needs",
+    "ai_automation": {
+      "title": "AI & Automation",
+      "description": "Enterprise-grade AI solutions and workflow automation to streamline your operations and increase efficiency."
+    },
+    "custom_development": {
+      "title": "Custom Development",
+      "description": "Bespoke software development tailored to your specific requirements and business objectives."
+    },
+    "workflow_optimization": {
+      "title": "Workflow Optimization",
+      "description": "Streamline your processes with intelligent automation and optimization strategies."
+    },
+    "data_analytics": {
+      "title": "Data Analytics",
+      "description": "Transform raw data into actionable insights with advanced analytics and visualization."
+    },
+    "security": {
+      "title": "Security Solutions",
+      "description": "Enterprise security implementation and compliance management for data protection."
+    },
+    "consulting": {
+      "title": "Consulting",
+      "description": "Strategic technology consulting to guide your digital transformation journey."
+    }
+  },
+  "portfolio": {
+    "header": "Our Portfolio",
+    "subheader": "Showcase of our successful projects and case studies",
+    "project1": {
+      "title": "Enterprise AI System",
+      "description": "Large-scale enterprise AI platform processing millions of transactions daily."
+    },
+    "project2": {
+      "title": "Workflow Automation Platform",
+      "description": "Automated business process management system reducing manual work by 80%."
+    },
+    "project3": {
+      "title": "Data Analytics Dashboard",
+      "description": "Real-time analytics dashboard providing insights across business operations."
+    },
+    "project4": {
+      "title": "Mobile Application",
+      "description": "Cross-platform mobile app with advanced features and seamless user experience."
+    }
+  }
+}
