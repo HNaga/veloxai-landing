@@ -4,7 +4,7 @@ export default function About() {
       <div className="max-w-6xl mx-auto">
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
-            <h2 className="text-4xl font-bold text-gray-900">About AIAA</h2>
+            <h2 className="text-4xl font-bold text-gray-900">About VeloXAI</h2>
             <p className="text-lg text-gray-700 leading-relaxed">
               AI Automation Academy is founded by industry experts with deep experience in enterprise system architecture, 
               AI integration, and business process automation.
